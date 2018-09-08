@@ -1,0 +1,7 @@
+c:\users\alex\source\repos\EduExcersises\Delegate\bin\Debug\Delegate.exe.config
+c:\users\alex\source\repos\EduExcersises\Delegate\bin\Debug\Delegate.exe
+c:\users\alex\source\repos\EduExcersises\Delegate\bin\Debug\Delegate.pdb
+c:\users\alex\source\repos\EduExcersises\Delegate\obj\Debug\Delegate.csprojAssemblyReference.cache
+c:\users\alex\source\repos\EduExcersises\Delegate\obj\Debug\Delegate.csproj.CoreCompileInputs.cache
+c:\users\alex\source\repos\EduExcersises\Delegate\obj\Debug\Delegate.exe
+c:\users\alex\source\repos\EduExcersises\Delegate\obj\Debug\Delegate.pdb
